@@ -138,7 +138,6 @@ integrations.
 [Community - Create Data Catalog tags by inspecting BigQuery data with Cloud Data Loss Prevention][tutorials - dlp to datacatalog tags] check this community tutorial for instructions.
 
 ## Filesets
-[Official Docs - Sending Cloud DLP scan results to Data Catalog][dlp-dc] Check the official docs for instructions.
 
 ### What are use cases for Data Catalog Filesets?
 [Official Docs - Using Cloud Storage filesets][filesets] Check the official docs.
