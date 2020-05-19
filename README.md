@@ -96,10 +96,12 @@ integrations.
 
 ### How does Search Work?
 [Official Docs - Search reference][search] Check the official docs for search syntax.
+
 [Community - Data Catalog Search and lookup][medium - search and lookup] Check this community blog post for Python examples.
 
 ### What are Templates and Tags for?
 [Official Docs - Quickstart Tagging][quickstart-tagging] Check the official docs for a quickstart on how to Tag Assets.
+
 [Community - Data Catalog Templates and Tags][medium - templates and tags] Check this community blog post for Python examples.
 
 ## Open Source Connectors
@@ -109,18 +111,22 @@ integrations.
 
 ### Can I ingest Looker assets into Data Catalog?
 [Google Github - Datacatalog Connectors BI][github - datacatalog connectors bi] Yes, check the github repository for sample code on how to ingest Looker assets.
+
 [Community - Google Cloud Data Catalog and Looker integration][medium - looker integration] Check this community blog post, for an overview of the Looker integration.
 
 ### Can I ingest Tableau assets into Data Catalog?
 [Google Github - Datacatalog Connectors BI][github - datacatalog connectors bi] Yes, check the github repository for sample code on how to ingest Tableau assets.
+
 [Community - Google Cloud Data Catalog and Tableau integration][medium - tableau integration] Check this community blog post, for an overview of the Tableau integration.
 
 ### Can I ingest SQL Databases assets into Data Catalog?
 [Google Github - Datacatalog Connectors RDBMS][github - datacatalog connectors rdbms] Yes, check the github repository for sample code on how to ingest RDBMS assets.
+
 [Community - Google Cloud Data Catalog — Integrate Your On-Prem RDBMS Metadata][medium - rdbms integration] Check this community blog post, for an overview of the RDBMS integration.
 
 ### Can I ingest Hive assets into Data Catalog?
 [Google Github - Datacatalog Connectors Hive][github - datacatalog connectors hive] Yes, check the github repository for sample code on how to ingest Hive assets.
+
 [Community - Google Cloud Data Catalog — Keep Up With Your On-Prem Hive Server][medium - hive integration] Check this community blog post, for an overview of the Hive integration.
 
 ## Cloud Data Loss Prevention (DLP)
@@ -136,6 +142,7 @@ integrations.
 
 ### What are use cases for Data Catalog Filesets?
 [Official Docs - Using Cloud Storage filesets][filesets] Check the official docs.
+
 [Community - Google Cloud Data Catalog Filesets: unlock its full potential][medium - dc filesets] Check this community blog post, if you want to enrich your filesets with Tags containing stats about your cloud storage files.
 
 ## Samples
