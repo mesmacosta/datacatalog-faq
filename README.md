@@ -133,10 +133,10 @@ integrations.
 ## Cloud Data Loss Prevention (DLP)
 
 ### Does DLP has native support for Data Catalog?
-[Official Docs - Sending Cloud DLP scan results to Data Catalog][dlp-dc] Check the official docs for instructions.
+[Official Docs - Sending Cloud DLP scan results to Data Catalog][dlp-dc] Yes, check the official docs for instructions.
 
 ### Can I run DLP in all my Big Query tables and send results to Data Catalog?
-[Community - Create Data Catalog tags by inspecting BigQuery data with Cloud Data Loss Prevention][tutorials - dlp to datacatalog tags] check this community tutorial for instructions.
+[Community - Create Data Catalog tags by inspecting BigQuery data with Cloud Data Loss Prevention][tutorials - dlp to datacatalog tags] Yes, check this community tutorial for instructions.
 
 ## Filesets
 
