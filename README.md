@@ -30,6 +30,10 @@
 -->
 
 <!-- toc -->
+
+- [Basics](#basics)
+  * [What is Data Catalog?](#what-is-data-catalog)
+
 <!-- tocstop -->
 
 -----
