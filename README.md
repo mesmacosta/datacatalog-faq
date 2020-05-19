@@ -38,6 +38,7 @@
 [github - datacatalog connectors hive]: https://github.com/GoogleCloudPlatform/datacatalog-connectors-hive
 [github - datacatalog connectors rdbms]: https://github.com/GoogleCloudPlatform/datacatalog-connectors-rdbms
 [github - templates_examples]: https://github.com/mesmacosta/datacatalog-util/blob/master/docs/templates_examples.md
+
 -----
 
 <!--
