@@ -15,6 +15,7 @@
 
 [issue]: https://github.com/mesmacosta/datacatalog-faq/issues
 [dc]: https://cloud.google.com/data-catalog
+[ga]: https://cloud.google.com/blog/products/data-analytics/data-catalog-metadata-management-now-generally-available
 [docs]: https://cloud.google.com/data-catalog/docs
 [so]: https://stackoverflow.com/search?q=%5Bgoogle-cloud-platform%5D+data+catalog
 [twitter]: https://twitter.com/mesmacosta
@@ -49,5 +50,9 @@ for data discovery, a flexible and powerful cataloging system for capturing both
 technical and business metadata, and a strong security and compliance foundation
 with Cloud Data Loss Prevention (DLP) and Cloud Identity and Access Management (IAM) 
 integrations.
+
+### Is Data Catalog GA?
+[GA blog post][ga] Yes, Data Catalog became GA, check the blog post.
+
 
 > **Your question not answered here?** Open an [issue] and see if we can answer.
