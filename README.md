@@ -19,4 +19,31 @@
 [so]: https://stackoverflow.com/search?q=%5Bgoogle-cloud-platform%5D+data+catalog
 [twitter]: https://twitter.com/mesmacosta
 
+
 -----
+
+<!--
+  ⚠️ DO NOT UPDATE THE TABLE OF CONTENTS MANUALLY ️️⚠️
+  run `npx markdown-toc -i README.md`.
+
+  Please stick to 80-character line wraps as much as you can.
+-->
+
+<!-- toc -->
+<!-- tocstop -->
+
+-----
+
+## Basics
+
+### What is Data Catalog?
+
+[Data Catalog][dc] Data Catalog is a fully managed and scalable metadata
+management service that empowers organizations to quickly discover, understand,
+and manage all their data. It offers a simple and easy-to-use search interface
+for data discovery, a flexible and powerful cataloging system for capturing both
+technical and business metadata, and a strong security and compliance foundation
+with Cloud Data Loss Prevention (DLP) and Cloud Identity and Access Management (IAM) 
+integrations.
+
+> **Your question not answered here?** Open an [issue] and see if we can answer.
